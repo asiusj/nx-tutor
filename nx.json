@@ -28,7 +28,7 @@
   },
   "projects": {
     "frontend-client": {
-      "tags": []
+      "tags": ["scope:frontentd-client"]
     },
     "frontend-client-e2e": {
       "tags": [],
